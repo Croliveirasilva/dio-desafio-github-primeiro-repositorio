@@ -22,7 +22,6 @@ Sao Multiplos
 ### Exemplo de Saída
 Nao sao Multiplos
 
-##
 
 # desafio 2
 
@@ -45,12 +44,13 @@ Valores nao aceitos
 ### Exemplo de Entrada
 2 3 2 6
 
-###Exemplo de Saída
+### Exemplo de Saída
 Valores aceitos
 
 #desafio 3
 
-##pagamentohoras.js
+## pagamentohoras.js
+
 Precisamos saber quanto uma determinada empresa deve pagar para seus colaboradores, porém temos apenas a quantidade de horas trabalhadas e o valor hora. Escreva um programa que leia o número de um colaborador, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse colaborador. Em seguida, apresente o número e o salário do colaborador, com duas casas decimais.
 
 ## Entrada
